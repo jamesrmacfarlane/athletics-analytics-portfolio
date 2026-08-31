@@ -24,8 +24,13 @@ This repository contains an **anonymized sports performance dashboard** built wi
 | `fulljumpdf.csv` | Jump test data (anonymized) |
 | `ActiveGym_Jumps.xlsx` | Source jump data across seasons |
 
+## Live Dashboard
+Explore the interactive Utah Gymnastics Analytics Dashboard here:  
+[View on Streamlit Cloud](https://jamesmacfarlane.streamlit.app)
+
 ## Deployment
 To run locally:
 ```bash
+
 pip install -r requirements.txt
 streamlit run jump_dashboard_anon.py
