@@ -26,7 +26,7 @@ This repository contains an **anonymized sports performance dashboard** built wi
 
 ## Live Dashboard
 Explore the interactive Utah Gymnastics Analytics Dashboard here:  
-[View on Streamlit Cloud](https://jamesmacfarlane.streamlit.app)
+[View on Streamlit Cloud](https://share.streamlit.io/jamesrmacfarlane/athletics-analytics-portfolio/main/jump_dashboard_anon.py)
 
 ## Deployment
 To run locally:
