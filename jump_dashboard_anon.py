@@ -18,7 +18,9 @@ st.set_page_config(page_title="Utah Gymnastics Dashboard", layout="wide")
 # ---------------------------------------------------------
 # Load James's data (your correct file paths)
 # ---------------------------------------------------------
-finaldf = pd.read_pickle(r"C:\Users\james\OneDrive\Summer Internship 2026\finaldf.pkl")
+finaldf = pd.read_pickle("finaldf.pkl")
+fulljumpdf = pd.read_csv("fulljumpdf.csv")
+
 fulljumpdf = pd.read_csv("fulljumpdf.csv")
 
 
